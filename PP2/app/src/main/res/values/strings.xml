@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">PP2</string>
+    <string name="todo">TODO</string>
+    <string name="textview1">In nuclear power station, heavy elements such as Uranium (U235) or Thorium (Th232) are subjected to nuclear fission* in a special apparatus known as a reactor. The heat energy thus released is
+utilised in raising steam at high temperature and pressure. The steam runs the steam turbine which
+converts steam energy into mechanical energy. The turbine drives the alternator which converts
+mechanical energy into electrical energy.
+The most important feature of a nuclear power station is that huge amount of electrical energy
+can be produced from a relatively small amount of nuclear fuel as compared to other conventional
+types of power stations. It has been found that complete fission of 1 kg of Uranium (U235) can
+produce as much energy as can be produced by the burning of 4,500 tons of high grade coal. Although the recovery of principal nuclear fuels (i.e., Uranium and Thorium) is difficult and expensive,
+yet the total energy content of the estimated world reserves of these fuels are considerably higher than
+those of conventional fuels, viz., coal, oil and gas. At present, energy crisis is gripping us and,
+therefore, nuclear energy can be successfully employed for producing low cost electrical energy on a
+large scale to meet the growing commercial and industrial demands.\n
+<b>Advantages</b>\n
+(i) The amount of fuel required is quite small. Therefore, there is a considerable saving in the
+cost of fuel transportation.\n
+(ii) A nuclear power plant requires less space as compared to any other type of the same size.\n
+(iii) It has low running charges as a small amount of fuel is used for producing bulk electrical
+energy.\n
+(iv) This type of plant is very economical for producing bulk electric power.\n
+(v) It can be located near the load centres because it does not require large quantities of water
+and need not be near coal mines. Therefore, the cost of primary distribution is reduced.\n
+(vi) There are large deposits of nuclear fuels available all over the world. Therefore, such plants
+can ensure continued supply of electrical energy for thousands of years.\n
+(vii) It ensures reliability of operation.\n
+        <b>Disadvantages</b>\n
+
+(i) The fuel used is expensive and is difficult to recover.\n
+(ii) The capital cost on a nuclear plant is very high as compared to other types of plants.\n
+(iii) The erection and commissioning of the plant requires greater technical know-how.\n
+(iv) The fission by-products are generally radioactive and may cause a dangerous amount of
+radioactive pollution.\n</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Youtube_SIA.iml" filepath="$PROJECT_DIR$/.idea/modules/Youtube_SIA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Youtube_SIA.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Youtube_SIA.app.iml" />
+    </modules>
+  </component>
+</project>

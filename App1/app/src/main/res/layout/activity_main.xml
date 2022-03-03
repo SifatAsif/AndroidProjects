@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Quantity"
+        android:textSize="34sp"
+        tools:layout_editor_absoluteX="142dp"
+        tools:layout_editor_absoluteY="303dp" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="242dp"
+        android:layout_height="78dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:orientation="horizontal"
+        tools:layout_editor_absoluteX="84dp"
+        tools:layout_editor_absoluteY="384dp">
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="51dp"
+            android:layout_height="wrap_content"
+            android:onClick="dec"
+            android:text="-"
+            android:textSize="24sp"
+            app:backgroundTint="#CAC4C4" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="87dp"
+            android:layout_height="42dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:text="0"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="51dp"
+            android:layout_height="wrap_content"
+            android:onClick="inc"
+            android:text="+"
+            android:textSize="24sp"
+            app:backgroundTint="#CAC4C4" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Order Details"
+        android:textSize="34sp"
+        tools:layout_editor_absoluteX="107dp"
+        tools:layout_editor_absoluteY="490dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="411dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="561dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="submit"
+        android:text="ORDER"
+        app:backgroundTint="#9E2727"
+        tools:layout_editor_absoluteX="162dp"
+        tools:layout_editor_absoluteY="703dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add Toppings"
+        android:textSize="34sp"
+        tools:layout_editor_absoluteX="101dp"
+        tools:layout_editor_absoluteY="161dp" />
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="208dp"
+        android:layout_height="52dp"
+        android:text="Chocogranate"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="108dp"
+        tools:layout_editor_absoluteY="217dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
